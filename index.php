@@ -14,6 +14,7 @@
 </head>
 <body>
 <h2>AJAX Pet Adoption Agency</h2>
+<p>This is a single page application, that uses a form and AJAX and only shows one question at a time, whilst delivering the image from a remote server, along with a profile of the pet</p>
 <p>Choose below to pick a pet:</p>
 <div id="output">
 <form id="myForm" action="" method="get">
